@@ -64,6 +64,9 @@ p{
     background-image: url("images/header-bg.png");
     background-repeat: no-repeat;
 }
+.link-btn img{
+    width: 20px;
+}
 /** education section**/
 #education{
     background-color: #e6e5e53b;
